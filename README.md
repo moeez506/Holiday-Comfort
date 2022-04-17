@@ -1,8 +1,8 @@
-#Resort Site
+# Resort Site
 
 ### Website for hotel built on HTML, CSS , JavaScript and REACT.I t contains the frontend of the app using react components.
 
-##Features<br/>
+## Features<br/>
 The main functions of the web apps are:<br/><br/>
 
 • Display different rooms available<br/>
